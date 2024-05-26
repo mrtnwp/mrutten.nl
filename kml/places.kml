@@ -2907,6 +2907,15 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Inishmore</name>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -9.666923667953277,53.11811157193682,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Koblenz</name>
       <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
