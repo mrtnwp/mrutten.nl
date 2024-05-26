@@ -1143,5 +1143,53 @@
         </coordinates>
       </LineString>
     </Placemark>
+    <Placemark>
+      <name>Langkawi - Singapore
+</name>
+      <styleUrl>#line-0288D1-1200-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          99.73222061787669,6.34184447741513,0
+          103.9915166045845,1.364364536179985,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Amsterdam - Helsinki
+</name>
+      <styleUrl>#line-0288D1-1200-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          4.762342367646135,52.30946196788468,0
+          24.96638631803907,60.31832563422301,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Helsinki - Singapore
+</name>
+      <styleUrl>#line-0288D1-1200-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          24.96641038428986,60.31832963477797,0
+          103.9915176749141,1.364364092000451,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Singapore - Phuket
+</name>
+      <styleUrl>#line-0288D1-1200-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          103.9915169227427,1.36436617588494,0
+          98.30639397928302,8.111045030653928,0 
+        </coordinates>
+      </LineString>
+    </Placemark>
   </Document>
 </kml>
