@@ -2817,6 +2817,15 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Magdeburg</name>
+      <styleUrl>#icon-1499-097138-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.62762316105595,52.12059676358292,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Kraków</name>
       <styleUrl>#icon-1499-097138-nodesc</styleUrl>
       <Point>
