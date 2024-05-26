@@ -1144,6 +1144,18 @@
       </LineString>
     </Placemark>
     <Placemark>
+      <name>Parijs - Singapore
+</name>
+      <styleUrl>#line-0288D1-1200-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          2.547797787334654,49.00961419153706,0
+          103.9915174481223,1.364364289143557,0 
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
       <name>Langkawi - Singapore
 </name>
       <styleUrl>#line-0288D1-1200-nodesc</styleUrl>
