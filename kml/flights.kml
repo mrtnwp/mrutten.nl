@@ -1132,6 +1132,18 @@
       </LineString>
     </Placemark>
     <Placemark>
+      <name>Amsterdam - Krakau
+</name>
+      <styleUrl>#line-0288D1-1200-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          4.762349536121329,52.30954111740461,0
+          19.802121473815,50.07253177261599,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
       <name>Amsterdam - Barcelona
 </name>
       <styleUrl>#line-0288D1-1200-nodesc</styleUrl>
