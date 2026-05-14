@@ -1215,5 +1215,35 @@
         </coordinates>
       </LineString>
     </Placemark>
+	<Placemark>
+		<name>Amsterdam - Edinburgh</name>
+		<styleUrl>#line-0288D1-1200-nodesc</styleUrl>
+		<LineString>
+			<coordinates>
+				4.762312667075353,52.30950344867739,0
+				-3.364003020777964,55.94875992491107,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Amsterdam - Zürich</name>
+		<styleUrl>#line-0288D1-1200-nodesc</styleUrl>
+		<LineString>
+			<coordinates>
+				4.762330849271641,52.30950285818299,0
+				8.563219110023548,47.45189561329128,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Zürich - Singapore</name>
+		<styleUrl>#line-0288D1-1200-nodesc</styleUrl>
+		<LineString>
+			<coordinates>
+				8.563229236026064,47.45188814776456,0
+				103.9915024544387,1.364386740148626,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
   </Document>
 </kml>
